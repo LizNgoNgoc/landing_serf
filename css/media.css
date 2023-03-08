@@ -1,0 +1,505 @@
+@media screen and (max-width: 1024px) {
+    .oval_img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .position_place_first {
+        top: 37%;
+    }
+
+    .position_place_second {
+        left: 5%;
+    }
+
+    .position_place_third {
+        left: 46%;
+        bottom: 28%;
+    }
+
+    .position_place_fifth {
+        right: 18%;
+        bottom: 36%;
+    }
+
+    .position_place_sixth {
+        bottom: 35%;
+    }
+
+    .position_place_seventh {
+        left: 22%;
+        bottom: 54%;
+    }
+
+    header {
+        width: 90px;
+    }
+
+    .header__btn {
+        height: 90px;
+        font-size: 25px;
+        line-height: 42px;
+        width: 91px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+    .btn__down {
+        right: 108%;
+    }
+    .header__nav {
+        margin-top: 40px;
+        gap: 13px;
+    }
+
+    .nav_img {
+        height: 80%;
+    }
+
+    .header__search{
+        margin-top: 0px;
+        margin-bottom: 8px;
+    }
+
+    .nav__container{
+        width: 100%;
+        height: 40px;
+    }
+
+    .header__date{ 
+        position: relative;
+        bottom: 0;
+    } 
+
+    .date__day {
+        font-size: 37px;
+        margin-left: 18px;
+    }
+
+
+}
+
+@media screen and (max-width: 768px) {
+    header {
+        width: 90px;
+    }
+
+    .header__btn {
+        height: 90px;
+        font-size: 25px;
+        line-height: 42px;
+        width: 91px;
+    }
+
+    h2 {
+        font-size: 30px;
+    }
+    .btn__down {
+        right: 108%;
+    }
+    .header__nav {
+        margin-top: 40px;
+        gap: 13px;
+    }
+
+    .nav_img {
+        height: 80%;
+    }
+
+    .header__search{
+        margin-top: 0px;
+        margin-bottom: 8px;
+    }
+
+    .nav__container{
+        width: 100%;
+        height: 40px;
+    }
+
+    .header__date{ 
+        position: relative;
+        bottom: 0;
+    } 
+
+    .date__day {
+        font-size: 37px;
+        margin-left: 18px;
+    }
+
+    .oval_img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .position_place_first {
+        top: 37%;
+    }
+
+    .position_place_second {
+        left: 5%;
+    }
+
+    .position_place_third {
+        left: 45%;
+        bottom: 33%;
+    }
+
+    .position_place_fifth {
+        right: 18%;
+        bottom: 39%;
+    }
+
+    .position_place_sixth {
+        bottom: 41%;
+    }
+
+    .position_place_seventh {
+        left: 22%;
+        bottom: 54%;
+    }
+
+    .direction_view {
+        gap: 5px;
+        left: 7px;
+    }
+
+    .view {
+        font-size: 20px;
+    }
+
+    .view_btn {
+        font-size: 20px;
+    }
+
+    .cards {
+        padding: 50px 0 0 80px;
+    }
+    
+    .travel {
+        padding: 0 0 0 90px;
+    }
+
+    .travel_info {
+        padding: 0 25px 0 0;
+        width: 145px;
+    }
+
+    .travel_slide  {
+        top: 30px;
+        right: 70px;
+    }
+
+    .malibu_img {
+        width: 500px;
+        height: 300px;
+        position: relative;
+        left: 72px;
+        top: 32px;
+    }
+
+    .airline_header {
+        font-size: 35px;
+    }
+
+
+    .serf_img {
+        height: 95px;
+        top: -30px;
+    }
+
+    .cont_airline_beach{
+        position: relative;
+        top: 20px;
+    }
+
+    .container_airline_australia {
+        top: 30px;
+    }
+
+    .serf_header {
+        font-size: 45px;
+    }
+
+    .travel_slide_container {
+        top: 50px;
+    }
+
+    .airline {
+        right: 100px;
+    }
+
+    .book {
+        bottom: 70px;
+    }
+
+    .register_info {
+        padding: 0 25px 0 0;
+        min-width: 152px;
+    }
+
+    .container_rating {
+        position: relative;
+        bottom: 20px;
+        left: -30%;
+        z-index: 30;
+    }
+
+    .container_register  {
+        padding: 0;
+    }
+
+    .surfboard {
+        height: 378px;
+        width: 125px;
+    }
+    .surf{
+        padding-left: 100px;
+        height: 500px;
+    }
+    .go__img{
+        left: 100px;
+        width: 300px;
+        height: 200px;
+    }
+    .click_oval {
+        top: 100px;
+        left: 85px;
+    }
+
+    .oval_btn {
+        height: 15px;
+        min-width: 15px;
+    }
+
+    .math_oval {
+        width: 9px;
+        height: 9px;
+    }
+
+    .line_oval {
+        margin-left: 12px;
+        width: 55px;
+    }
+
+    .oval_middle_position {
+        top: 125px;
+        left: 25px;
+    }
+
+    .oval_down_position {
+        right: 130px;
+        bottom: 135px;
+    }
+
+    .surfboard_caract {
+        width: 215px;
+        right: -155px;
+        font-size: 15px;
+        line-height: 20px;
+    }
+
+    .shop_title_pos {
+        top: 20px;
+    }
+
+    .north_header {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    .price_dollars {
+        font-size: 30px;
+        line-height: 25px;
+    }
+
+    .price_cents {
+        font-size: 15px;
+        line-height: 15px;
+    }
+
+    .surfboard {
+        left: 140px;
+    }
+
+    .book_stay_shop {
+        top: 105px;
+    }
+
+    .extras {
+        width: 195px;
+        height: 205px;
+        right: 0;
+    }
+
+    .extras_parag {
+        font-size: 18px;
+    }
+
+    .extras_shop {
+        gap: 15px;
+    }
+
+    .wax_img {
+        width: 60px;
+        height: 60px;
+    }
+
+    .vida_img {
+        width: 78px;
+        height: 60px;
+    }
+
+    .name_extras {
+        font-size: 10px;
+    }
+
+    .sleep {
+        padding: 0 0 50px 90px;
+    }
+
+    .sleep_img {
+        width: 445px;
+        height: 290px;
+    }
+
+    .book_stay {
+        bottom: 25px;
+    }
+
+    .shop {
+        padding: 0 0 50px 93px;
+    }
+
+    .search_information {
+        left: 93px;
+    }
+
+    .search_input {
+        width: 585px;
+    }
+}
+
+/* @media screen and (max-width: 425px) {
+    header {
+        width: 40px;
+    }
+
+    .header__btn {
+        height: 40px;
+        font-size: 25px;
+        line-height: 42px;
+        padding: 0 45px 0 0;
+    }
+
+    h2 {
+        font-size: 25px;
+    }
+
+    .header__nav {
+        height: 190px;
+    }
+
+    .nav__container {
+        width: 35px;
+        height: 24px;
+    }
+
+    .nav__calls {
+        font-size: 9px;
+    }
+
+    .date__day {
+        margin-left: 3px;
+        font-size: 30px;
+    }
+
+    .date__me {
+        font-size: 9px;
+    }
+
+    .date__point {
+        font-size: 6px;
+    }
+
+    main {
+        padding-left: 7px;
+    }
+
+    .go__img {
+        width: 175px;
+        height: 200px;
+    }
+
+    .section__title {
+        right: 10px;
+    }
+
+    .section__slider {
+        width: 60%;
+        gap: 10px;
+        bottom: 15px;
+    }
+
+    .slider__number {
+        font-size: 15px;
+    }
+
+    .slider__paragraph {
+        line-height: 11px;
+    }
+
+    .serf_img {
+        width: 240px;
+        height: 70px;
+        right: 145px;
+        top: -35px;
+    }
+
+    .location_header {
+        font-size: 27px;
+        line-height: 47px;
+    }
+
+    .cont_serv {
+        align-items: inherit;
+    }
+
+    .section__map_container {
+        right: 125px;
+        height: 515px;
+        width: 145%;
+    }
+
+    .section_coord {
+        font-size: 10px;
+    }
+
+    .travel_cont {
+        right: 10px;
+    }
+
+    .airline_title_pos  {
+        bottom: 275px;
+        right: 126px;
+    }
+
+    .airline_header  {
+        font-size: 27px;
+        line-height: 47px;
+    }
+
+    .serf_img  {
+        top: -75px;
+        right: 90px;
+    }
+
+    .information  {
+        font-size: 15px;
+    }
+
+    .name_information {
+        font-size: 10px;
+    } */
+
+/* } */

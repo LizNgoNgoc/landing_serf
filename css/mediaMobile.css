@@ -1,0 +1,331 @@
+@media screen and (max-width: 430px) {
+    .go__img, .map_btn_cont, .btn__under, .section__parag, .slider__number, .btn__down, .section__map_container, .cont_serv, .serf_img, .section__travel, .airline_title_pos{
+        display: none;
+    }
+    .section__title{
+        right: 5px;
+        bottom: 0;
+        top: 100px;
+    }
+
+    .section__slider{
+        flex-direction: column;
+        height: 260px;
+        width: 200px;
+        right: 0;
+        left: 30px;
+        /* margin: auto; */
+        bottom: 20px;
+        transition: 0.8s;
+    }
+    .slider_nav{
+        width: 100%;
+    }
+    .slider__paragraph{
+        font-size: 20px;
+    }
+    header{
+        left: -1000px;   
+        transition: 0.7s; 
+    }
+    .burger_btn{
+        display: block;
+        top: 5px;
+        left: 5px;
+        width: 20px;
+        height: 23px;
+        position: fixed;
+        transform: rotate(-90deg);
+        transition: 0.8s;
+        z-index: 99999;
+    }
+    .burger_btn--active{
+        transform: rotate(90deg);
+        left: 95px;
+    }
+    .header--active{
+        left: 0;
+    }
+    .section_direction{
+        flex-direction: column;
+        gap: 15px;
+    }
+    .cards{
+        height: auto;
+        
+    }
+    .direction_parag {
+        transform: rotate(0);
+        left: 0;
+        font-size: 15px;
+        top: 0;
+        width: 100%;
+    }
+    .direction{
+        width: 90%;
+        height: 200px;
+        overflow: hidden;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        top: 0;
+        margin: 0;
+        padding: 10px 15px;
+        border-radius: 6px;
+
+    }
+    .surf{
+        height: 0;
+    }
+    .overflow{
+        height: 100%;
+    }
+    .section_padding{
+        transition: 0.8s;
+    }
+    .travel{
+        width: 100%;
+        padding: 0 20px 0 100px;
+    }
+    .travel_slide{
+        right: 0;
+    }
+    .slydes_travel{
+        padding: 0;
+    }
+    .container_info{
+        flex-direction: column;
+    }
+    .name_information {
+        top: 0;
+        right: 0;
+        left: 0;
+        transform: rotate(0);
+
+    }
+    .malibu_img, .airline_img, .siargao_img, .hossegor_img{
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 300px;
+    }
+  
+    .travel_slide_container{
+        left: 0;
+    }
+    .book {
+        bottom: 110px;
+    }
+    .travel_buttons{
+        right: 20px;
+    }
+    .container_airline_australia{
+        top: 10px;
+    }
+    .cont_airline_beach{
+        top: 0;
+    }
+
+    .cont_airline_beach, .cont_auberge, .north_header, .price_dollars {
+        font-size: 25px;
+        line-height: 30px;
+    }
+
+    .cont_shore, .cont_resorts  {
+        line-height: 50px;
+    }
+
+    .sleep {
+        width: 100vw;
+    }
+
+    .container_rating {
+        left: 0;
+        bottom: 0;
+        right: 0;
+        top: 0;
+        margin: auto;
+        z-index: 4;
+    }
+    .block_slide{
+        position: relative;
+    }
+    .sleep_img{
+        position: absolute;
+        z-index: 3;
+        width: 100%;
+    }
+    .sleep{
+        height: 90vh;
+        padding: 0 20px 0 100px
+    }
+    .sleep_title_pos{
+        top: 0;
+
+    }
+    .container_register{
+        width: 100%;
+        display: flex;
+        height: 170px;
+        flex-direction: column;
+        gap: 17px;
+    }
+    .rating_header{
+        font-size: 31px;
+    }
+    .register_info{
+        min-width: 100%;
+        padding: 0 10px;
+        width: 100%;
+    }
+    .name_register{
+        margin: 0;
+        top: 0;
+        left: 0;
+        transform: rotate(0);
+        text-align: left;
+    }
+    .register_information {
+        position: relative;
+        font-size: 18px;
+        left: 0;
+        right: 0;
+        margin: auto;
+        top: 15px;
+        text-align: center;
+    }
+    .counter{
+        position: relative;
+        top: -5px;
+        left: 0;
+        right: 0;
+        width: 80px;
+        justify-content: space-between;
+        
+    }
+    .sleep_cont{
+        width: 100%;
+        min-width: 100%;
+        height: 65px;
+    }
+    .cont_resorts {
+        line-height: 30px;
+    }
+    .plus_minus {
+        width: 30px;
+        height: 20px;
+    }
+    .night_info{
+        right: 0;
+        top: 5px;
+        left: 0;
+        bottom: 0;
+        margin: auto;
+    }
+
+    .book_stay {
+        bottom: 70px;
+    }
+     .click_oval, .click_oval_left, .click_oval_down {
+        display: none;
+     }
+     .section__shop {
+        display: none;
+     }
+
+     .shop {
+        height: 555px;
+     }
+
+     .background_img {
+        max-height: 450px;
+     }
+    .surfboard {
+        left: 230px;
+        top: 0;
+    }
+     .extras {
+        position: relative;
+        bottom: 25px;
+        right: auto;
+     }
+
+     .shop_title_pos {
+        top: 30px;
+        height: 300px;
+     }
+
+     .north_rating, .cont_style, .book_stay_shop {
+        top: auto;
+     }
+
+     .mr--no {
+        margin: 0;
+     }
+
+     .search_information {
+        left: 120px;
+     }
+
+     .search_input {
+        width: 205px;
+     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .padding-none{
+        padding: 30px 10px;
+    }
+    .section__slider--active{
+        left: 95px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .section_text {
+        font-size: 14px;
+    } 
+    
+    .section__ws {
+        font-size: 30px;
+    }
+
+    .opacity_text {
+        font-size: 12px;
+    }
+    .register_information{
+        left: 30px;
+    }
+    .night_info{
+        left: 30px;
+    }
+    .cont_auberge {
+        font-size: 17px;
+    }
+    .sleep_title_pos{
+        top: 0;
+        display: none;
+    }
+
+    .container_rating {
+        top: 45px;
+    }
+
+    .search_input {
+        width: 150px;
+     }
+    
+}
